@@ -1,5 +1,7 @@
-Hi 👋 My name is Volodymyr
-==========================Frontend Developer------------------I've been learning to code 4 years, during this time I managed to try a many technologies and programming languages and so far I have settled on the frontend* ✉️  You can contact me at [cryobs.ads@gmail.com](mailto:cryobs.ads@gmail.com)
+<h1>Hi 👋 My name is Volodymyr</h1>
+<h2>Frontend Developer</h2>
+I've been learning to code 4 years, during this time I managed to try a many technologies and programming languages and so far I have settled on the frontend 
+*   ✉️  You can contact me at [cryobs.ads@gmail.com](mailto:cryobs.ads@gmail.com)
 
 ### Skills
 
