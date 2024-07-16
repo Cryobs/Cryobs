@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Volodymyr=================================================================================================================================Frontend Developer------------------I've been learning to code 4 years, during this time I managed to try a many technologies and programming languages and so far I have settled on the frontend* ✉️  You can contact me at [cryobs.ads@gmail.com](mailto:cryobs.ads@gmail.com)
+Hi 👋 My name is Volodymyr
+==========================Frontend Developer------------------I've been learning to code 4 years, during this time I managed to try a many technologies and programming languages and so far I have settled on the frontend* ✉️  You can contact me at [cryobs.ads@gmail.com](mailto:cryobs.ads@gmail.com)
 
 ### Skills
 
