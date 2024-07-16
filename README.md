@@ -1,7 +1,7 @@
 # Hi 👋 My name is Volodymyr
 ## Frontend Developer
-I've been learning to code 4 years, during this time I managed to try a many technologies and programming languages and so far I have settled on the frontend 
-I study at a technical school, majoring in computer science.
+💻I've been learning to code 4 years, during this time I managed to try a many technologies and programming languages and so far I have settled on the frontend 
+<br>📚I study at a technical school, majoring in computer science.
 *   You can contact me at [cryobs.ads@gmail.com](mailto:cryobs.ads@gmail.com)
 
 ### Skills
