@@ -1,8 +1,8 @@
 # Hey, I'm Volodymyr 👋
 
-I've been into computers for as long as I can remember — started writing code at 12, went deep into assembly and low-level programming, and now I'm focused on Linux systems, infrastructure, and DevOps.
+I've been into computers for as long as I can remember - started writing code at 12, went deep into assembly and low-level programming, and now I'm focused on Linux systems, infrastructure, and DevOps.
 
-I run a self-hosted homelab on Raspberry Pi (Docker, Cloudflare Tunnel, Twingate, monitoring stack) and enjoy understanding how things work at a low level — from kernel internals to network packets.
+I run a self-hosted homelab on Raspberry Pi (Docker, Cloudflare Tunnel, Twingate, monitoring stack) and enjoy understanding how things work at a low level - from kernel internals to network packets.
 
 Currently building my skills toward a DevOps/SysAdmin role and open to any interesting opportunities.
 
